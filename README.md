@@ -10,9 +10,8 @@ O atendimento possui padrão de excelência e agilidade, garantindo qualidade e 
 
 <h2>Benefícios</h2>
 
-    <ul>
-        <li class="itens">Atendimento aos Clientes</li>
-        <li class="itens">Espaço diferenciado</li>
-        <li class="itens">Localização</li>
-        <li class="itens">Profissionais Qualificados</li>
-    </ul>
+    <p>Atendimento aos Clientes</p>
+    <p>Espaço diferenciado</p>
+    <p>Localização</p>
+    <p>Profissionais Qualificados</p>
+    
